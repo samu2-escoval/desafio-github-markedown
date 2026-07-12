@@ -120,12 +120,16 @@ Assim como em uma jornada Pokémon, cada desafio concluído representa uma nova 
   </a>
 
   <p>
-    <em>Quando o código quebra, mas o commit já foi feito.</em>
+    <strong>Psyduck tentando entender o erro no código...</strong>
   </p>
 
   <p>
-    <a href="https://tenor.com/pt-BR/view/psyduck-pok%C3%A9mon-laptop-on-fire-duck-gif-11352596389714363119">
-      Ver GIF do Psyduck
+    <em>Quando o projeto quebra, mas o commit já foi feito.</em>
+  </p>
+
+  <p>
+    🔥 <a href="https://tenor.com/pt-BR/view/psyduck-pok%C3%A9mon-laptop-on-fire-duck-gif-11352596389714363119">
+      Ver GIF do Psyduck no Tenor
     </a>
   </p>
 
