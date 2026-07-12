@@ -115,18 +115,17 @@ Assim como em uma jornada Pokémon, cada desafio concluído representa uma nova 
 
 <div align="center">
 
-  <a href="https://tenor.com/pt-BR/view/psyduck-pok%C3%A9mon-laptop-on-fire-duck-gif-11352596389714363119">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" width="130" alt="Psyduck">
-  </a>
+  <img 
+    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/54.gif" 
+    width="120" 
+    alt="Psyduck animado">
 
   <p>
-    <em>Quando o código quebra, mas o commit já foi feito.</em>
+    <strong>Psyduck tentando entender o erro no código...</strong>
   </p>
 
   <p>
-    <a href="https://tenor.com/pt-BR/view/psyduck-pok%C3%A9mon-laptop-on-fire-duck-gif-11352596389714363119">
-      Ver GIF do Psyduck
-    </a>
+    <em>Quando o projeto quebra, mas o commit já foi feito.</em>
   </p>
 
 </div>
